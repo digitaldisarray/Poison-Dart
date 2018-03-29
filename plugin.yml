@@ -1,0 +1,7 @@
+main: net.antilag.Main
+version: 1.4
+name: antilag
+commands:
+    antilag:
+        description: Toggles lag monitoring.
+        usage: /<command>
